@@ -1,0 +1,811 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Signal by the Train Station Playground, first one!",
+        "OBJECTID": "1",
+        "Model": "Federal Signal",
+        "LongDMS": "88°8'23.093W",
+        "LatDMS": "41°46'48.528N ",
+        "Description": "Signal by the Train Station Playground, first one!",
+        "City": "Naperville",
+        "State": "IL",
+        "Color": "White",
+        "Landmark": "Watertower, Naperville Train Sation",
+        "DayDist": "7,005.4672852",
+        "HouseDist": "5,252.9882813",
+        "CityName": "5th",
+        "CityNum": "414E",
+        "PicURL": "http://binged.it/1GLD3ID",
+        "Range": "6,400.0000000",
+        "POINT_X": "-88.139748127686659",
+        "POINT_Y": "41.780155599836604"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.13974812768666,
+          41.780155599836604,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Watertower, Wendy's",
+        "OBJECTID": "3",
+        "Model": "Federal Signal",
+        "LongDMS": "88°7'17.979W",
+        "LatDMS": "41°47'57.007N",
+        "Description": "",
+        "City": "Naperville",
+        "State": "IL",
+        "Color": "White",
+        "Landmark": "Watertower, Wendy's",
+        "DayDist": "14,873.4414063",
+        "HouseDist": "4,264.8056641",
+        "CityName": "Naperville/Wheaton",
+        "CityNum": "1595",
+        "PicURL": "http://binged.it/1GLCSgE",
+        "Range": "6,400.0000000",
+        "POINT_X": "-88.121664114117337",
+        "POINT_Y": "41.799173352982208"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.12166411411734,
+          41.79917335298221,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Field verified with map, siren found",
+        "OBJECTID": "4",
+        "Model": "Federal Signal",
+        "LongDMS": "88°10'48.244W",
+        "LatDMS": "41°46'50.952N",
+        "Description": "Field verified with map, siren found",
+        "City": "Naperville",
+        "State": "IL",
+        "Color": "Brown",
+        "Landmark": "Public Works Facility",
+        "DayDist": "5,163.1865234",
+        "HouseDist": "15,722.7734375",
+        "CityName": "",
+        "CityNum": "",
+        "PicURL": "http://binged.it/1GLBWJ4",
+        "Range": "6,400.0000000",
+        "POINT_X": "-88.180067765373579",
+        "POINT_Y": "41.780818865282974"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.18006776537358,
+          41.780818865282974,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Watertower",
+        "OBJECTID": "5",
+        "Model": "Federal Signal",
+        "LongDMS": "88°11'21.535W",
+        "LatDMS": "41°46'8.702N",
+        "Description": "",
+        "City": "Naperville",
+        "State": "IL",
+        "Color": "White",
+        "Landmark": "Watertower",
+        "DayDist": "6,974.7207031",
+        "HouseDist": "19,256.4218750",
+        "CityName": "W. Jefferson",
+        "CityNum": "1672",
+        "PicURL": "http://binged.it/1GLDAdD",
+        "Range": "6,400.0000000",
+        "POINT_X": "-88.189317902032101",
+        "POINT_Y": "41.769083758299359"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.1893179020321,
+          41.76908375829936,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "By DSW on 75th",
+        "OBJECTID": "6",
+        "Model": "Federal Signal",
+        "LongDMS": "88°11'45.189W",
+        "LatDMS": "41°44'53.66N",
+        "Description": "By DSW on 75th",
+        "City": "Naperville",
+        "State": "IL",
+        "Color": "Brown",
+        "Landmark": "Electric Substation",
+        "DayDist": "12,438.5371094",
+        "HouseDist": "24,452.8769531",
+        "CityName": "Three Farms",
+        "CityNum": "2424",
+        "PicURL": "http://binged.it/1GLDNO8",
+        "Range": "6,400.0000000",
+        "POINT_X": "-88.195889592140119",
+        "POINT_Y": "41.748240336350669"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.19588959214012,
+          41.74824033635067,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "By the water towers on Diehl",
+        "OBJECTID": "8",
+        "Model": "Federal Signal",
+        "LongDMS": "88°9'26.325W",
+        "LatDMS": "41°47'56.831N",
+        "Description": "By the water towers on Diehl",
+        "City": "Naperville",
+        "State": "IL",
+        "Color": "White",
+        "Landmark": "Watertower (x2)",
+        "DayDist": "9,629.1171875",
+        "HouseDist": "10,245.3642578",
+        "CityName": "N. West",
+        "CityNum": "1623",
+        "PicURL": "http://binged.it/1wtRNkl",
+        "Range": "6,400.0000000",
+        "POINT_X": "-88.157312475479870",
+        "POINT_Y": "41.799121745143189"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.15731247547987,
+          41.79912174514319,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Location off from city map",
+        "OBJECTID": "13",
+        "Model": "Federal Signal",
+        "LongDMS": "88°11'19.894W",
+        "LatDMS": "41°48'24.312N ",
+        "Description": "Location off from city map",
+        "City": "Naperville",
+        "State": "IL",
+        "Color": "Brown",
+        "Landmark": "Electric Substation",
+        "DayDist": "14,005.1005859",
+        "HouseDist": "19,252.9902344",
+        "CityName": "Corporate",
+        "CityNum": "2007",
+        "PicURL": "http://binged.it/1GLAAhB",
+        "Range": "6,400.0000000",
+        "POINT_X": "-88.188854998463825",
+        "POINT_Y": "41.806750740374966"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.18885499846382,
+          41.806750740374966,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Location off from city map",
+        "OBJECTID": "14",
+        "Model": "Federal Signal",
+        "LongDMS": "88°12'37.788W",
+        "LatDMS": "41°47'28.779N ",
+        "Description": "Location off from city map",
+        "City": "Naperville",
+        "State": "IL",
+        "Color": "White",
+        "Landmark": "School",
+        "DayDist": "14,264.6240234",
+        "HouseDist": "23,874.8105469",
+        "CityName": "Bruce",
+        "CityNum": "30W240",
+        "PicURL": "http://binged.it/1GLAYws",
+        "Range": "6,400.0000000",
+        "POINT_X": "-88.210496144534460",
+        "POINT_Y": "41.791327531393073"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.21049614453446,
+          41.79132753139307,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Park (Foxhill Greens), Pool",
+        "OBJECTID": "15",
+        "Model": "Federal Signal",
+        "LongDMS": "88°11'37.824W",
+        "LatDMS": "41°47'5.276N",
+        "Description": "",
+        "City": "Naperville",
+        "State": "IL",
+        "Color": "White",
+        "Landmark": "Park (Foxhill Greens), Pool",
+        "DayDist": "9,137.3613281",
+        "HouseDist": "19,318.1816406",
+        "CityName": "Brookdale",
+        "CityNum": "1625",
+        "PicURL": "http://binged.it/1GLBeeI",
+        "Range": "6,400.0000000",
+        "POINT_X": "-88.193841328827091",
+        "POINT_Y": "41.784798625795155"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.19384132882709,
+          41.784798625795155,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Neighborhood, E Chicago Ave",
+        "OBJECTID": "16",
+        "Model": "Federal Signal",
+        "LongDMS": "88°6'54.136W",
+        "LatDMS": "41°46'40.581N",
+        "Description": "",
+        "City": "Naperville",
+        "State": "IL",
+        "Color": "White",
+        "Landmark": "Neighborhood, E Chicago Ave",
+        "DayDist": "13,376.2353516",
+        "HouseDist": "4,067.2724609",
+        "CityName": "Chicago",
+        "CityNum": "25W344",
+        "PicURL": "http://binged.it/1GLDhzy",
+        "Range": "6,400.0000000",
+        "POINT_X": "-88.115037288293507",
+        "POINT_Y": "41.777938428138810"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.11503728829351,
+          41.77793842813881,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Park (Olesen Farm)",
+        "OBJECTID": "17",
+        "Model": "Federal Signal",
+        "LongDMS": "88°7'13.446W",
+        "LatDMS": "41°45'55.052N",
+        "Description": "",
+        "City": "Naperville",
+        "State": "IL",
+        "Color": "White",
+        "Landmark": "Park (Olesen Farm)",
+        "DayDist": "12,107.4423828",
+        "HouseDist": "8,084.6220703",
+        "CityName": "Oleson",
+        "CityNum": "604",
+        "PicURL": "http://binged.it/1wtKbhP",
+        "Range": "6,400.0000000",
+        "POINT_X": "-88.120400326319469",
+        "POINT_Y": "41.765292755490222"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.12040032631947,
+          41.76529275549022,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Shops, Downtown Naperville",
+        "OBJECTID": "18",
+        "Model": "Federal Signal",
+        "LongDMS": "88°9'0.601W",
+        "LatDMS": "41°46'24.753N",
+        "Description": "",
+        "City": "Naperville",
+        "State": "IL",
+        "Color": "White",
+        "Landmark": "Shops, Downtown Naperville",
+        "DayDist": "3,675.7993164",
+        "HouseDist": "8,944.6474609",
+        "CityName": "W. Jefferson",
+        "CityNum": "131",
+        "PicURL": "http://binged.it/1GLDaEj",
+        "Range": "6,400.0000000",
+        "POINT_X": "-88.150167472932296",
+        "POINT_Y": "41.773543909016297"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.1501674729323,
+          41.7735439090163,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Field verified with map, no siren found",
+        "OBJECTID": "19",
+        "Model": "Federal Signal",
+        "LongDMS": "",
+        "LatDMS": "",
+        "Description": "Field verified with map, no siren found",
+        "City": "Naperville",
+        "State": "IL",
+        "Color": "",
+        "Landmark": "",
+        "DayDist": "3,926.4328613",
+        "HouseDist": "13,402.5214844",
+        "CityName": "W. 5th",
+        "CityNum": "1099",
+        "PicURL": "http://binged.it/1GLCoXS",
+        "Range": "6,400.0000000",
+        "POINT_X": "-88.171744646206093",
+        "POINT_Y": "41.782215937826578"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.1717446462061,
+          41.78221593782658,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Lake, Neighborhood",
+        "OBJECTID": "20",
+        "Model": "Federal Signal",
+        "LongDMS": "88°9'58.557W",
+        "LatDMS": "41°45'15N ",
+        "Description": "",
+        "City": "Naperville",
+        "State": "IL",
+        "Color": "White",
+        "Landmark": "Lake, Neighborhood",
+        "DayDist": "6,815.5527344",
+        "HouseDist": "16,891.3554688",
+        "CityName": "S. West",
+        "CityNum": "915",
+        "PicURL": "http://binged.it/1GLE2Zm",
+        "Range": "6,400.0000000",
+        "POINT_X": "-88.166267876579397",
+        "POINT_Y": "41.754166530136843"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.1662678765794,
+          41.75416653013684,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Watertower",
+        "OBJECTID": "21",
+        "Model": "Federal Signal",
+        "LongDMS": "88°8'7.353W",
+        "LatDMS": "41°44'52.099N",
+        "Description": "",
+        "City": "Naperville",
+        "State": "IL",
+        "Color": "White",
+        "Landmark": "Watertower",
+        "DayDist": "11,948.8583984",
+        "HouseDist": "14,809.8330078",
+        "CityName": "Clyde",
+        "CityNum": "1303",
+        "PicURL": "http://binged.it/1GLoEw4",
+        "Range": "6,400.0000000",
+        "POINT_X": "-88.135377811597706",
+        "POINT_Y": "41.747805737158210"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.1353778115977,
+          41.74780573715821,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Fire Station (#2)",
+        "OBJECTID": "22",
+        "Model": "Federal Signal",
+        "LongDMS": "88°7'3.266W",
+        "LatDMS": "41°44'27.102N",
+        "Description": "",
+        "City": "Naperville",
+        "State": "IL",
+        "Color": "White",
+        "Landmark": "Fire Station (#2)",
+        "DayDist": "17,142.0664063",
+        "HouseDist": "17,020.1835938",
+        "CityName": "E. Bailey",
+        "CityNum": "601",
+        "PicURL": "http://binged.it/1EHj1dB",
+        "Range": "6,400.0000000",
+        "POINT_X": "-88.117573548373826",
+        "POINT_Y": "41.740862280116922"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.11757354837383,
+          41.74086228011692,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "School",
+        "OBJECTID": "23",
+        "Model": "Federal Signal",
+        "LongDMS": "88°5'46.037W",
+        "LatDMS": "41°44'26.335N",
+        "Description": "",
+        "City": "Naperville",
+        "State": "IL",
+        "Color": "Brown",
+        "Landmark": "School",
+        "DayDist": "21,840.0468750",
+        "HouseDist": "18,541.1171875",
+        "CityName": "Ranchview",
+        "CityNum": "1699",
+        "PicURL": "http://binged.it/1EHjBIu",
+        "Range": "6,400.0000000",
+        "POINT_X": "-88.096121035843055",
+        "POINT_Y": "41.740648608784227"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.09612103584305,
+          41.74064860878423,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Electric Substation",
+        "OBJECTID": "24",
+        "Model": "Federal Signal",
+        "LongDMS": "88°7'3.638W",
+        "LatDMS": "41°42'55.737N",
+        "Description": "",
+        "City": "Naperville",
+        "State": "IL",
+        "Color": "White",
+        "Landmark": "Electric Substation",
+        "DayDist": "24,381.6933594",
+        "HouseDist": "26,244.2441406",
+        "CityName": "Royce",
+        "CityNum": "688",
+        "PicURL": "http://binged.it/1BZI5hL",
+        "Range": "6,400.0000000",
+        "POINT_X": "-88.117677299801656",
+        "POINT_Y": "41.715482841257057"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.11767729980166,
+          41.71548284125706,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Neighborhood, 87th St.",
+        "OBJECTID": "25",
+        "Model": "Federal Signal",
+        "LongDMS": "88°8'59.273W",
+        "LatDMS": "41°43'34.331N",
+        "Description": "",
+        "City": "Naperville",
+        "State": "IL",
+        "Color": "White",
+        "Landmark": "Neighborhood, 87th St.",
+        "DayDist": "17,418.4531250",
+        "HouseDist": "23,457.5058594",
+        "CityName": "Travelaire",
+        "CityNum": "408",
+        "PicURL": "http://binged.it/1EHhKDn",
+        "Range": "6,400.0000000",
+        "POINT_X": "-88.149797635539215",
+        "POINT_Y": "41.726203791440078"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.14979763553922,
+          41.72620379144008,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "School",
+        "OBJECTID": "26",
+        "Model": "Federal Signal",
+        "LongDMS": "88°10'20.272W",
+        "LatDMS": "41°43'3.888N",
+        "Description": "",
+        "City": "Naperville",
+        "State": "IL",
+        "Color": "White",
+        "Landmark": "School",
+        "DayDist": "20,184.1113281",
+        "HouseDist": "28,711.3847656",
+        "CityName": "Springdale",
+        "CityNum": "1301",
+        "PicURL": "http://binged.it/1BZGuZm",
+        "Range": "6,400.0000000",
+        "POINT_X": "-88.172296512285683",
+        "POINT_Y": "41.717746712742525"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.17229651228568,
+          41.717746712742525,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Watertower",
+        "OBJECTID": "27",
+        "Model": "Federal Signal",
+        "LongDMS": "88°9'57.225W",
+        "LatDMS": "41°42'2.978N",
+        "Description": "",
+        "City": "Naperville",
+        "State": "IL",
+        "Color": "White",
+        "Landmark": "Watertower",
+        "DayDist": "26,233.0683594",
+        "HouseDist": "33,637.3750000",
+        "CityName": "Plainfield/Naperville",
+        "CityNum": "3712",
+        "PicURL": "http://binged.it/1EHgbp8",
+        "Range": "6,400.0000000",
+        "POINT_X": "-88.165896082935106",
+        "POINT_Y": "41.700827293422584"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.1658960829351,
+          41.700827293422584,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Cell Tower, S Route 59",
+        "OBJECTID": "28",
+        "Model": "Federal Signal",
+        "LongDMS": "88°12'23.271W",
+        "LatDMS": "41°43'13.657N",
+        "Description": "",
+        "City": "Naperville",
+        "State": "IL",
+        "Color": "White",
+        "Landmark": "Cell Tower, S Route 59",
+        "DayDist": "22,275.7265625",
+        "HouseDist": "33,344.9765625",
+        "CityName": "S. Route 59",
+        "CityNum": "2601",
+        "PicURL": "http://binged.it/1GLInfj",
+        "Range": "6,400.0000000",
+        "POINT_X": "-88.206478149764251",
+        "POINT_Y": "41.720497753875740"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.20647814976425,
+          41.72049775387574,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Electric Substation",
+        "OBJECTID": "29",
+        "Model": "Federal Signal",
+        "LongDMS": "88°13'53.056W",
+        "LatDMS": "41°42'19.941N",
+        "Description": "",
+        "City": "Naperville",
+        "State": "IL",
+        "Color": "Brown",
+        "Landmark": "Electric Substation",
+        "DayDist": "30,608.1250000",
+        "HouseDist": "41,991.2656250",
+        "CityName": "Wolf's Crossing",
+        "CityNum": "4301",
+        "PicURL": "http://binged.it/1EHejfR",
+        "Range": "6,400.0000000",
+        "POINT_X": "-88.231403499508360",
+        "POINT_Y": "41.705539583650030"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.23140349950836,
+          41.70553958365003,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "School (Nequa Valley HS)",
+        "OBJECTID": "30",
+        "Model": "Federal Signal",
+        "LongDMS": "88°11'30.706W",
+        "LatDMS": "41°42'34.86N",
+        "Description": "",
+        "City": "Naperville",
+        "State": "IL",
+        "Color": "White",
+        "Landmark": "School (Nequa Valley HS)",
+        "DayDist": "24,206.3769531",
+        "HouseDist": "33,971.1210938",
+        "CityName": "95th",
+        "CityNum": "2360",
+        "PicURL": "http://binged.it/1EHeKXA",
+        "Range": "6,400.0000000",
+        "POINT_X": "-88.191862495022662",
+        "POINT_Y": "41.709682493407811"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.19186249502266,
+          41.70968249340781,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Neighborhood, S Route 59",
+        "OBJECTID": "31",
+        "Model": "Federal Signal",
+        "LongDMS": "88°12'17.288W",
+        "LatDMS": "41°41'29.646N",
+        "Description": "",
+        "City": "Naperville",
+        "State": "IL",
+        "Color": "Brown",
+        "Landmark": "Neighborhood, S Route 59",
+        "DayDist": "31,605.5605469",
+        "HouseDist": "41,431.1093750",
+        "CityName": "S. Route 59",
+        "CityNum": "4240",
+        "PicURL": "http://binged.it/1BZDH29",
+        "Range": "6,400.0000000",
+        "POINT_X": "-88.204801242673810",
+        "POINT_Y": "41.691568641744290"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.20480124267381,
+          41.69156864174429,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Church, Hassert Blvd/111th St",
+        "OBJECTID": "32",
+        "Model": "Federal Signal",
+        "LongDMS": "88°11'8.704W",
+        "LatDMS": "41°40'50.799N",
+        "Description": "",
+        "City": "Naperville",
+        "State": "IL",
+        "Color": "Brown",
+        "Landmark": "Church, Hassert Blvd/111th St",
+        "DayDist": "34,045.2578125",
+        "HouseDist": "42,447.5742188",
+        "CityName": "Hassert",
+        "CityNum": "2002",
+        "PicURL": "http://binged.it/1EHfXy1",
+        "Range": "6,400.0000000",
+        "POINT_X": "-88.185751480918498",
+        "POINT_Y": "41.680777637632005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.1857514809185,
+          41.680777637632005,
+          0
+        ]
+      }
+    }
+  ]
+}
